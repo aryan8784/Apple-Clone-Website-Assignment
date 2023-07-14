@@ -1,0 +1,162 @@
+.navbar .navbar-nav .nav-item a:hover{
+    transition: 0.3s;
+    transform: scale(1.1);
+    color: #0d6efd;
+}
+
+
+.macbookpic {
+    background-image: url(images/macbook\ pic.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.threemacbook {
+    background-image: url(images/three\ mac\ book.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.iphone {
+    background-image: url(images/iphone.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.promo_iphone {
+    background-image: url(images/promo_iphone.jpg);
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+
+button:hover {
+    text-decoration: underline !important;
+}
+
+.apple-vision {
+    background-image: url(images/apple_vision.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.vision {
+    position: relative;
+}
+
+/* .apple-vision h1 {
+    position: absolute;
+    bottom: 18%;
+    right: 26%;
+    text-align: center !important;
+}
+
+.apple-vision h3 {
+    position: absolute;
+    font-size: 18px;
+    bottom: 11%;
+    right: 2%;
+}
+.apple-vision p {
+    position: absolute;
+    font-size: 15px;
+    bottom: 6%;
+    right: 15%;
+}
+.apple-vision button{
+    position: absolute;
+    font-size: 20px;
+    bottom: 2%;
+    right: 27%;
+} */
+
+.apple-vision h1 {
+    position: absolute;
+    bottom: 28%;
+    right: 16%;
+    text-align: center !important;
+}
+
+.apple-vision h3 {
+    position: absolute;
+    font-size: 18px;
+    bottom: 22%;
+    right: 10%;
+}
+
+.apple-vision p {
+    position: absolute;
+    font-size: 15px;
+    bottom: 16%;
+    right: 15%;
+}
+
+.apple-vision button {
+    position: absolute;
+    font-size: 20px;
+    bottom: 10%;
+    right: 18%;
+}
+
+.apple-watch {
+    background-image: url(images/apple_watch.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.ipadpro {
+    background-image: url(images/ipadpro_refresh.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.fitness {
+    background-image: url(images/promo_fitness.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+.card-atm{
+    background-image: url(images/card\ atm.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+.footer-links ul li{
+    list-style: none;
+}
+.footer-links p{
+    font-weight: bold;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    
+}
+.footer-links ul li a:hover{
+    text-decoration: underline;
+    color: #0d6efd;
+}
+.foot-link a{
+    text-decoration: none;
+    color: #000;
+}
+.foot-link a:hover{
+    text-decoration: underline;
+    color: #0d6efd;
+}
